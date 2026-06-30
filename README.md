@@ -33,8 +33,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KallamJyotshnaReddy&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KallamJyotshnaReddy&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotshnakallam&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotshnakallam&theme=tokyonight" width="48%" />
 </p>
 
 > Replace `KallamJyotshnaReddy` above with your actual GitHub username for the stats cards to render correctly.
@@ -53,12 +53,10 @@
 ### 🎨 Beyond Code
 
 - 🖌️ I love drawing and crafting in my free time
-- 🏴‍☠️ Watching anime — One Piece is my comfort show
 - 📚 Always curious to learn something new, on and off the screen
 
 ---
 
 <p align="center">
-  <i>"I'm gonna be King of the Pirates!" — Monkey D. Luffy</i><br>
   <sub>This profile is just getting started — more projects coming soon 🚀</sub>
 </p>
