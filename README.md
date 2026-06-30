@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Kallam Jyotshna Reddy 👋</h1>
+<h3 align="center">B.Tech CSE Student | Aspiring Software Developer | Anime Enthusiast 🏴‍☠️</h3>
 
-<!--
-**jyotshnakallam/jyotshnakallam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+C+and+Python;B.Tech+CSE+%E2%80%93+1st+Year;Future+Software+Engineer;One+Piece+Fan+%F0%9F%8F%B4" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🎓 I'm currently in my **1st Year, 1st Semester** of **B.Tech in Computer Science and Engineering**
+- 💻 Currently exploring **C** and **Python** programming languages
+- 🌱 This is a fresh profile — I'll be uploading small projects, experiments, and things I'm currently working on
+- 🎨 I enjoy spending time on **art and crafts**
+- 🏴‍☠️ Big into anime — **One Piece** is my all-time favorite
+- 📫 Open to connecting with fellow learners and developers
+
+---
+
+### 🛠️ Tools & Tech
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KallamJyotshnaReddy&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KallamJyotshnaReddy&theme=tokyonight" width="48%" />
+</p>
+
+> Replace `KallamJyotshnaReddy` above with your actual GitHub username for the stats cards to render correctly.
+
+---
+
+### 🎯 What I'm Working On
+
+- 🔹 Building a strong foundation in **C** and **Python**
+- 🔹 Solving beginner-to-intermediate level coding problems
+- 🔹 Uploading small experiments and practice projects as I learn
+- 🔹 Planning to explore Data Structures & Algorithms next
+
+---
+
+### 🎨 Beyond Code
+
+- 🖌️ I love drawing and crafting in my free time
+- 🏴‍☠️ Watching anime — One Piece is my comfort show
+- 📚 Always curious to learn something new, on and off the screen
+
+---
+
+<p align="center">
+  <i>"I'm gonna be King of the Pirates!" — Monkey D. Luffy</i><br>
+  <sub>This profile is just getting started — more projects coming soon 🚀</sub>
+</p>
