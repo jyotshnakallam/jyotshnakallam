@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Kallam Jyotshna Reddy 👋</h1>
-<h3 align="center">B.Tech CSE Student | Learning Neew Things</h3>
+<h3 align="center">B.Tech CSE Student | Learning New Things</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Learning+C+and+Python;B.Tech+CSE+%E2%80%93+1st+Year;Future+Software+Engineer;" alt="Typing SVG" />
