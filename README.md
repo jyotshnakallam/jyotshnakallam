@@ -38,10 +38,10 @@
 
 ### 🎯 What I'm Working On
 
-🔹 Building a strong foundation in **C** and **Python**
-🔹 Solving beginner-to-intermediate level coding problems
-🔹 Uploading small experiments and practice projects as I learn
-🔹 Planning to explore Data Structures & Algorithms next
+- Building a strong foundation in **C** and **Python**
+- Solving beginner-to-intermediate level coding problems
+- Uploading small experiments and practice projects as I learn
+- Planning to explore Data Structures & Algorithms next
 
 ---
 
